@@ -1,0 +1,12 @@
+
+body{
+
+    text-align: center;
+    background:linear-gradient(to right, red , yellow)
+}
+.done{
+    text-decoration: line-through;
+}
+hr{
+    border: solid white 1px;
+}
